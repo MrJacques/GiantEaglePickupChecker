@@ -1,0 +1,26 @@
+{
+    "giant eagle": {
+        "login": "",
+        "password": ""
+    },
+    "twilio": {
+        "account_sid": "",
+        "auth_token": "",
+        "from_phone": "",
+        "to_phones": [
+            "+2125550001",
+            "+2125550002"
+        ],
+        "test": {
+            "account_sid": "",
+            "auth_token ": ""
+            "test_from": "+15005550006"
+        }
+    },
+    "store_comment": "taken from URL when reserve button is clicked - https://curbsideexpress.gianteagle.com/store/BB361095#/landing",
+    "store": "BB361095",
+    "mode_comment": "mode should be 'continuous' or 'single'",
+    "mode": "continuous",
+    "delay_comment": "delay is in seconds.  1200 = twenty minutes",
+    "delay": 1200
+}
