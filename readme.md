@@ -1,5 +1,8 @@
-Copyright 2020 Jacques Parker 
-code@judyandjacques.com
+#Giant Eagle pickup slot checker
+
+#Deprecated
+
+#Giant Eagle has changed there website and this code will no longer function.
 
 I got tired of repeatedly checking the Giant Eagle grocery store for a pickup slot for curbside groceries.
 
@@ -25,3 +28,5 @@ Required libraries - selenium, twilio
 Currently written to use the chrome driver (version 59+ to use headless mode).  
 Download can be found here https://chromedriver.chromium.org/downloads
 
+Copyright 2020 Jacques Parker 
+code@judyandjacques.com
