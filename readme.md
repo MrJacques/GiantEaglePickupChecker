@@ -1,8 +1,6 @@
-#Giant Eagle pickup slot checker
+# Giant Eagle pickup slot checker
 
-#Deprecated
-
-#Giant Eagle has changed there website and this code will no longer function.
+# Deprecated - Giant Eagle has changed there website and this code will no longer function.
 
 I got tired of repeatedly checking the Giant Eagle grocery store for a pickup slot for curbside groceries.
 
